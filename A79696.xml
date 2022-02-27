@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ymofynion iw hatteb gan brocatorion, wardeinied, a swyddogion eraill, ymwelied escobol gyntaf y gwir barchedig dad Humphrey Humphreys, Escob Bangor, yn y flwyddyn o oedran Jesu, 1690.</title>
+            <author>Church of England. Diocese of Bangor.  Bishop (1689-1701 : Humphreys)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79696</idno>
+            <idno type="STC">Wing C4190G</idno>
+            <idno type="STC">ESTC R173999</idno>
+            <idno type="EEBO-CITATION">43663229</idno>
+            <idno type="OCLC">ocm 43663229</idno>
+            <idno type="VID">171973</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171973)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2604:20 or 2670:6b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ymofynion iw hatteb gan brocatorion, wardeinied, a swyddogion eraill, ymwelied escobol gyntaf y gwir barchedig dad Humphrey Humphreys, Escob Bangor, yn y flwyddyn o oedran Jesu, 1690.</title>
+                  <author>Church of England. Diocese of Bangor.  Bishop (1689-1701 : Humphreys)</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication information from Wing (2nd ed.).</note>
+                  <note>Imperfect: faded, with slight loss of text.</note>
+                  <note>Reproduction of originals in: Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+                  <note>Item at 2670:6b is bound with: Gan fod y Ffurf Gweddi gyda Diolch ... [S.l. : s.n., 1685].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Diocese of Bangor.</term>
+               <term>Visitations, Ecclesiastical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171973:1"/>
+            <p>YMOFYNION IW HATTEB Gan Brocatorion, Wardeinied, A Swyddogion eraill, Ymwelied Eſcobol gyntaf y gwir barchedig Dad HUMPHREY HUMPHREYS, ESCOB BANGOR Yn y Flwyddyn o oedran JESU, 1690.</p>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:171973:2"/>
+            <head>Llwf y procatorion neu Wardeinied.</head>
+            <p>EIch Llwf chwi ydiw bod ei chwi Waſanaetha Swydd Procatorion neu Wardeinied, yn eich plwy yn gy<g ref="char:EOLhyphen"/>wir affyddlon; ymorol yn fanwl ac yn ddiwid gyhuddo bob bai neu droſedd ceryddus a wnaethpwyd euſys neu a wneler o fewn eich plwy chwi dra byddoch yn <hi>y</hi> Swydd hen a rhoi ei fynnu henwau pob rhiw un ac ſydd neu a fytho yn euog or cyfriw feiau ac ymofynnir yn ei cylch yn <hi>yr</hi> ym holion rhain, ac <hi>y</hi> gwnewch hyn <hi>yn</hi> gyfiawn ac <hi>yn</hi> gydwybo<g ref="char:EOLhyphen"/>dus. O <hi>hyd</hi> eitha eich gallu deallturieth a gwybodeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="chapter">
+               <pb n="1" facs="tcp:171973:2"/>
+               <head>PEN. I. <hi>Ynghylch Eglwyſi a Chapelau ai Perthynaſau.</hi>
+               </head>
+               <p n="1">1. AYdyw eich Eglwys neu eich Capel chwi mewn Dyledûs ac iawn adeilad? Ydyw 'r Tô yn ddiddôs y mur yn ddifrêg, y pared od<g ref="char:EOLhyphen"/>dimewn wedi ei wyngalchie, y llawr yn waſtad, yn Lân, a thref<g ref="char:EOLhyphen"/>nus, a'r meincie ag eiſteddleoedd erail yn weddus a thrwſiedig, a phôb peth yn weddus i Du Dduw?</p>
+               <p n="2">2. A oes yn eich Eglwys, neu yn eich Capel chwi Fedydd faen trefnûs, a chaead cyfatebol arno? oes gantho-chwi Letring, neu Ddarllenfa daclus i ddarllen y Gwaſanaeth, a Chadair ymadrodd neu. Bylputt i bregethu gair Duw (wedi ei hilio a Brethyn a chluſtoc weddus) a chwedi ei oſod yn gyfleus?</p>
+               <p n="3">3. A oes genych Wenwiſc ô Liain main yn waſtad mewn cwbl drwſſiad, a glan olchiad, Bwrdd cymwys i weini y Cymmun Sanctaidd, wedi ei oſod yn gufleûs, ai hilio yn waſtad a Brethyn, ac a lliain glân hefyd ar Ddyddiau Cymmun, Cwppan, Flagen a deſcil gyfattebol ir Gwaſanaeth parchedic San<g ref="char:EOLhyphen"/>ctaidd hwnw, a Lliain glân iw danu dros y Bara a'r Gwîn Cyſſegredig?</p>
+               <p n="4">4. A oes geñych Feible Cymraec Hollawl, cwblgyfa o'r cyfieithiad Cym<g ref="char:EOLhyphen"/>raec Diweddaf; y Llyfr Gweddi gyffredin, yr Homiliau, a'r namun deugain Pyncyau ffydd yn yr enrhyw iaith, y Llfr o Gyfreithiau neu Ganônau Eglwyſic a Llechres o'r Graddau gwaharddedic (i) nêb briodi ynddynt ; Llyfr côf ô femiwn i gadw henwau cynnifer a Fedyddir neu a brioder neu a gladder? a hefyd llyfr arall o Bapur i ſcrifenu cyfrifon y Procatorion yntho, ag i gadw cyfri ô hôll Ddâ, Dodrefn a Pherthynaſau 'r Eglwys: ac oes genych, Gîſt gref a chloeau arni (i) gadw 'rhôll Lyfre â Dodrefn eraill a ddylevid ei cadw ynthi, a oes Egoriadau yr Gîſt yma ûn gida' 'ch Eglwyſwr chwi, a dau erail gidar Procatorion?</p>
+               <p n="5">5. A o<g ref="char:EOLunhyphen"/>ſodwyd i fynu ûn Fainc, neu a adeuladwyd un ei ſteddle yn eich Eglwys chwi yn ddiweddar heb gennad ac Awdurdod ya Eſcob? ac a oes dim ymryſon in eich Plwyf chwi ynghylch Breintic, Eiſteddleoedd neu Feddrodau; ac a fu ymddadl neu ymrafael yn yr Eglwyſi oi plegit?</p>
+               <pb n="2" facs="tcp:171973:3"/>
+               <p n="6">6. A oes dim Arian, neu Dir, neu Dda eraill yn perthyn i adeilad eich Eglwys, ac ydyw Swyddwyr eich Eglwys yn derbyn ei chyfiawnder hi yn ddi<g ref="char:EOLhyphen"/>drais a Gormes, ac yn ei treulio i waſanaeth ag Adeilad yr Eglwys yn unic.</p>
+            </div>
+            <div type="chapter">
+               <head>PEN. II. <hi>Ynghylch y Fynwent, Tai a thir Eglwyſic.</hi>
+               </head>
+               <p n="1">1. A Oes Clawdd cryf, taclus, o gerrig o amgylch eich Mynwent? Ydyw Pyrth a chamfuydd y Fynwent yn drefnus ac adeiladwy? a ddarfu i nêb ormeſu ar y Fynwent, neu oes nêb yn arfer chwareu ynthi, yn benaf, oes nêb yn arfer un amſer chware Pél Dô ar yr Eglwys ac yn enwedic ar Ddydd yr Arglwydd?</p>
+               <p n="2">2. A oes Tû yn perthyn i Berſon neu Ficar eich Plwyf chwi? ac ydyw ef yn cadw y Tû hwn hefo ei yſcubor ai Feidu, ai hôll Berthynaſeu mewn Trein ac iawn adeilad ?</p>
+               <p n="3">3. A oes Tîr neu Dyddyn yn perthyn iddo, ydyw ir Tir hwn dan ei glod<g ref="char:EOLhyphen"/>die, ai derfyne; a oes nêb yn gormeſu arno, neu yn treiſio eich Eglwyſwr am unrhyw ran o honaw a ddarfu colli neu gyfnewid dim o honaw a pha bryd, a chan bwy y gwnaethpwyd hyny ?</p>
+               <p n="4">4. A oes genych yn Gl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r yr Eglwys ynghadw <hi>Terrier</hi> neu Stent (hyny ydyw, Cyfrif a meſur o'r Taî a'r Tîr ſydd yn perthyn i'r Berſonolieth neu'r Ficerieth, yn dangos pa fâth Dai ac Adeilad ydynt, Pa ſawl Ty ſydd o honynt, a pha ſawl ſtafell, Devad, a chwlas ſydd ym mhôb un, pa Berilanau, gerddi a Chadleiſie, pa Feuſydd, Caeu, a Gwairgloddie; neu rhandiroedd ſydd yn Per<g ref="char:EOLhyphen"/>thyn iddynt? Pa ſawl Cyfer, Erw, a Llathen a gynhwyſant, a pha fodd y Terfynir yr unrhyw ôbobtú ac a oes Copi, neu B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtiwm o'r 'ſtent neu'r Cyfri a'r <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hwn wedi ei ddanfon at yr Eſcob i'w gadw gan y <hi>Regiſter?</hi>
+               </p>
+               <p n="5">5. Pa Ddegymmau, Ofrymmau, neu Gy<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> y mae eich Eglwyſwr chwi vn ei dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbyn? Pa ſawl Trêf-Ddegwm ſydd yn eich Plwyf chwi, ydyw'r Plwyfolion yn <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alu ei Degwm yn ôl y Gyfraeth, neu a oes rhyw ddefod neull<g ref="char:EOLhyphen"/>duol i Dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gy<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> neu dâlu yn llê Degwm, yn eich Plwyf chwi, neu mewn rhyw ran neu D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddyn o honaw, ydyw 'r Dd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fod h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no yn Hên tu-hwynt i Goffadw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eth Dyn; neu wedi Tyfu i fynu yn Ddiweddar yn eich plith chwi.</p>
+            </div>
+            <div type="chapter">
+               <pb n="3" facs="tcp:171973:3"/>
+               <head>PEN. III. <hi>Ynghylch yr Eglwyſwyr.</hi>
+               </head>
+               <p n="1">1. YDyw eich Eglwyſwr chwi wedi ei urddo a'i gyſſegru i'w alwedigeth yn o'l Cyfraeth yr Eglwys a'r Deyrnas hon? a gafodd eich Perſon neu <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h Ficar chwi Feddiant cyfreithlawn yn ei Eglwys a Ddarllenodd efe y Pynci<g ref="char:EOLhyphen"/>au ffydd Eglwys Loegr, a Llyfr Gweddi Cyffredin o fewn y Tymor goſode<g ref="char:EOLhyphen"/>dic ac a ddarfu iddo ddadcan ei gyd ſyniad a'r unrhyw ar gyhoedd, yn<g ref="char:EOLhyphen"/>gwydd y Gyñilleidfa ar amſer Gwaſaneth; a ddarfu iddo brynu ei Urdda neu ei Lê ac Arian, neu drwy ryw am<g ref="char:cmbAbbrStroke">̄</g>od anweddus ac angyfreithlawn, neu oes ſôn neu Ddrwg dyb yn y byd ddarfod iddo wneuthur felly,</p>
+               <p n="2">2.A oes gan eich Eglwyſwr chwi un Rhênt neu Lê Eglwyſic buddiol heb law eich Plwyf chwi, a ydyw ef yn byw yn oeſtad yn eich plîth chwi? a ydyw ef yn Pregethû unwaith bôb ſûl (neu Ddydd yr Arglwydd) tra byddo mewn iechyd a gallû, pa hyd mawn un Flwyddyn bu ymaith oddiwrthych, a Phwy ſydd yn cadw ei Lê ef pan fytho yn abſenôl, ydyw hwnw yn deul<g ref="char:EOLhyphen"/>wng oi ſwydd ydyw ef yn cyflawni ei hôll Ddledſwydd yn yr Eglwys ac allan o honi o ſewn y Plwyf, ac ydyw ef yn cael Cyflog gweddol, cymwys i'w ſwydd ai Alwedigaeth?</p>
+               <p n="3">3.A ydyw eich Eglwyſwr chwi yn y Gwaſanaeth arferol, ac yn Gweini'r Sacramentau; mewn Priodaſau, ac with Eglwyſa gwragedd, ymweled a'r cleifion, a chladdedigaeth y meirw, a phob Gweinidogeth Eglwyſic arall yn arfer y Ffurf dull a Geirie goſodedic yn y Llyfr Gweddi Cyffredin yn Ddi gyfnewid, ac yn dilyn yr hôll gynneddfau Gorchymynedic yn yr unrhyw.</p>
+               <p n="4">4 Ydyw eich Eglwyſwr chwi yn gweini yr Cym<g ref="char:cmbAbbrStroke">̄</g>un Bendigedig yn aml a chyn fynyched o'r hyn lleiaf ac y gallo pob un o'r Plwyfolion ei Dderbyn ef Dair gwaith yn y Flwyddyn?</p>
+               <p n="5">5.Ydyw ef vn rhoi 'rhybydd wythnos oflaen y Cym<g ref="char:cmbAbbrStroke">̄</g>un ac yn Cynghori y Bobl i'w paratoi ei hunain erbyn dyfod iddaw, ydyw ef yn myny henw pôb un a dderbynio 'r Cymun y nes o'r blaen, ydyw ef yn attal Pechaduriad cy<g ref="char:EOLhyphen"/>hoeddus, Eſcym<g ref="char:cmbAbbrStroke">̄</g>un ac anedifeiriol ag yn rhoi ei henwe nhw i'r Eſcob yn ôl y Gyfraeth.</p>
+               <p n="6">6.Ydyw ef yn ddiwyd yn addyſcu 'r Plant ynGhatcciſm neu Egwyddor yr Eglwys, ac yn ei Egluro ef iddynt, ac ydyw ef yn ei paratoi nhw i gael ei Confirmio neu dderbyn arddodiad Dwylaw gan yr Eſcob?</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:171973:4"/>
+               <p n="12">12. A fy neb farw yu ddiweddar yn ddilythyr Cym<g ref="char:cmbAbbrStroke">̄</g>un, ac a ddarfu i nêb Gymeryd arno feddiannu neu gyfrannu da y Cyfryw heb Awdrduod oddi<g ref="char:EOLhyphen"/>wrth yr Eſcob neu ei Swyddog?</p>
+               <p n="13">13. A fy nêb farw yn ddiweddar wedi gwneid ei Lythyr cym<g ref="char:cmbAbbrStroke">̄</g>un, ac a ddarfu profi yr unrhyw yn Llys yr Eſcob neu o flaen ei ſwyddog ef? A ada<g ref="char:EOLhyphen"/>wod neb yn ei Lythyr Cymmun un Rhodd i Eglwys Fangor neu i'ch Eglwys blwyf chwi, neu i ryw Eglwys neu Ddefnydd Duwiol arall, a dalwyd y Cy<g ref="char:EOLhyphen"/>fryw rôdd, ag a dreſnwyd hî yn ôl Ewyllus y marw: nen pwy ſydd yn attal ac yn rhwyſtro yr unrhyw?</p>
+               <p n="14">14. Oes nêb yn naccau neu yn attal talu ei ddegwm ei arian Pâſc, ai Of<g ref="char:EOLhyphen"/>frwm cyfreithlawn neu ei drêth Eglwys neu un Ddlêd arall i'r Eglwyſwr, neu 'r Eglwys?</p>
+            </div>
+            <div type="chapter">
+               <head>PEN. V. <hi>Ynghylch y Procatorion neu Wardeinied.</hi>
+               </head>
+               <p n="1">1. A Ydis yn dewis eich Procatorion neu Wardeinied bob blwyddyn yn heddychol ag yn gyttunol yn ôl Cyfraeth yr Eglwys a Defod eich Plwyf, ac ydyw eich Eglwyſwr yn dewis un o honynt yn oeſtad?</p>
+               <p n="2">2. A ddarfu i'r amryw Brocatorion a fu och blaen chwi roddi i fynu ei Cyfri ô Dreth a Dâ 'r Eglwys yn union ac yn gywair, ac ydis yndangos y cyfri hwn i'r Eglwyſwr ar plwfolion ar oſteg y plwyf, ac yn ei yſcriſennu yn y llyfr Cyfri?</p>
+               <p n="3">3. Ydyw 'r Procatorion megis y maent yn rhwym drwy gyfraeth y Deyr<g ref="char:EOLhyphen"/>nas a'r Eglwys yn Paratoi Bara a gwin goreuriw erbyn pôb Cym<g ref="char:cmbAbbrStroke">̄</g>un ar drail y Plwyf?</p>
+            </div>
+            <div type="chapter">
+               <pb n="7" facs="tcp:171973:4"/>
+               <head>PEN. VI. <hi>Ynghylch y Periglorion a'r Clochyddion.</hi>
+               </head>
+               <p n="1">1. OEs genych Beriglor neu Glochydd o un ar hugain oed; ac yn wr o fy<g ref="char:EOLhyphen"/>chedd rinweddol a chrefyddol yn medru darllain Cymraec ac yn me<g ref="char:EOLhyphen"/>dru yn rhygl yr hôll attebion a drefnir yn y Llyfr Gweddi gyffredin, ac ym<g ref="char:cmbAbbrStroke">̄</g>hob peth yn gymwys i'w ſwydd.</p>
+               <p n="2">2. Ydyw efe yn gweini yn ufudd eich Eglwys wr y ngwaſaneth yr Eglwys a phob rhan oi ſwydd. Ydyw efe yn cadw yr Eglwys bob amſer yn lân ac yn daclus, ac yn cadw y gwiſcoedd a'r Llyfrau a hôll Berthynaſau yr Eglwys yn gyfa yn lân ac yn weddus?</p>
+               <p n="3">3. Ydyw efe yn cloddio y beddi yn weddol y gladdu'r meirw, ac yn ei gwaſtadhau nhwy yn drefnus wedi'r claddedigaethe, fel na bytho yr Eglwy<g ref="char:EOLhyphen"/>ſydd vn frynie a Phantie ac mor anwaſtad ag y maent yn gyfredinol?</p>
+               <p n="4">4. Ydyw ef yn canu y glôch ar amſeroedd goſodedig arferedig, ag yn iawn gyflawni ei ddledſwydd ymmhob peth?</p>
+            </div>
+            <div type="chapter">
+               <head>PEN. VII. <hi>Ynghylch Eluſendai ac Yſcolion.</hi>
+               </head>
+               <p n="1">1. OEs o fewn eich plwyf chwi ûn, hosbyttu neu Eluſendu, Pa ſawl ûn ô Dlodion a gedwir neu a dylid ei gadw yntho, pa ardreth Tîr, neu lôg arian neu dda eraill ſydd yn perthyn iddynt, ydis yn trefnu ac yn cy<g ref="char:EOLhyphen"/>frannu yr unrhyw yn ôl cyfraeth y wlâd, defod y lle, ac Ewyllys Duwiol y rhoddwr, a ydyw y golygwyr ag eraill ſy'n perthyn iddo yn cyflawni ei Dled<g ref="char:EOLhyphen"/>ſwydd yn gyfiawn ag yn ofalus ac ydyw'r Eluſenwyr yn ei diwyg ai Hymar<g ref="char:EOLhyphen"/>weddiad yn ymddwyn yn ôl goſodigeth yr Eluſindu.</p>
+               <pb n="6" facs="tcp:171973:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:171973:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
